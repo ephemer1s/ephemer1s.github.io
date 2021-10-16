@@ -8,7 +8,7 @@ keywords:
 description:
 top_img:
 comments:
-cover:
+cover: /img/406463.jpg
 toc:
 toc_number:
 copyright:
@@ -28,7 +28,7 @@ aside:
 
 cd到sagiri主题目录，在该目录下打开控制台，使用命令：
 
-```
+```bash
 $ npm install
 ```
 
@@ -40,7 +40,7 @@ $ npm install
 
 安装全部依赖后生成hexo，打开本地主页，无法正常显示，并出现`“ {% extends ‘_layout.swig‘ %} {% import ‘_macro/post.swig‘ as post_template %}“`问题。原因是hexo>=5.0版本下swig包需要自行安装，在hexo根目录执行命令如下：
 
-```
+```bash
 $ npm install hexo-renderer-swig
 ```
 

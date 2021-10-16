@@ -8,7 +8,7 @@ keywords:
 description:
 top_img:
 comments:
-cover:
+cover: /img/bg_default_w.png
 toc:
 toc_number:
 copyright:

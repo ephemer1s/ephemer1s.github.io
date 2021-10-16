@@ -6,7 +6,7 @@ type: tags
 comments:
 description:
 keywords:
-top_img:
+top_img:   /img/bg_index.jpg
 mathjax:
 katex:
 aside:

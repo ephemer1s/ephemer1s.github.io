@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Old Adam
-subtitle: ''
+title: Bar Kyūyaku
+subtitle: 'the Dateless one'
 description: ''
 keywords:
 author: 月见Spica
@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ephemer1s.github.io/project
+url: https://ephemer1s.github.io/
+root: /
 # permalink: :year/:month/:day/:title/
 permalink: :title/
 permalink_defaults:
